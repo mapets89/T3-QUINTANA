@@ -1,0 +1,80 @@
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\Catalogo Web.dll.config
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\Catalogo Web.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\Catalogo Web.pdb
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\csc.exe
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\csc.exe.config
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\csc.rsp
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\csi.exe
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\csi.exe.config
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\csi.rsp
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.AppContext.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Collections.Immutable.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Console.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.IO.Compression.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.IO.FileSystem.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Net.Http.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Net.Sockets.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.ValueTuple.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Xml.XPath.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\vbc.exe
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\vbc.exe.config
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\vbc.rsp
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\VBCSCompiler.exe
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\roslyn\VBCSCompiler.exe.config
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\Antlr3.Runtime.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\AspNet.ScriptManager.bootstrap.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\BusinessLayers.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\ClassLibrary.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\Microsoft.ScriptManager.WebForms.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\Microsoft.Web.Infrastructure.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\Newtonsoft.Json.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\System.Web.Optimization.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\WebGrease.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\BusinessLayers.pdb
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\ClassLibrary.pdb
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\System.Web.Optimization.xml
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\Newtonsoft.Json.xml
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\Antlr3.Runtime.pdb
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\es\System.Web.Optimization.resources.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\obj\Debug\Catalogo Web.csprojAssemblyReference.cache
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\obj\Debug\Catalogo Web.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\obj\Debug\Catalogo Web.csproj.CopyComplete
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\obj\Debug\Catalogo Web.dll
+D:\UTN\Programacion 3\TP 2 - Quintana\TP2_Quintana\Catalogo Web\obj\Debug\Catalogo Web.pdb
