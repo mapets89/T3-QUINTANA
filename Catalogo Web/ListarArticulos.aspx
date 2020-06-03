@@ -67,7 +67,6 @@
 
     </style>
 
-
     <asp:TextBox CssClass="textbox" runat="server" AutoPostBack="true" ID="textBoxBusqueda" OnTextChanged="textBoxBusqueda_TextChanged" />
     <div class="card-columns" style="margin-left: 10px; margin-right: 10px; column-count: 3;">
 

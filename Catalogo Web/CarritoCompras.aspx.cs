@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -17,16 +18,24 @@ namespace Catalogo_Web
         {
             ArticuloNegocio negocio = new ArticuloNegocio();
             Articulo articulo = new Articulo();
+            System.Globalization.CultureInfo culture;
             try
             {
                 if (Session[Session.SessionID + "articulo"] != null)
                 {
                     carrito = (Carrito)Session[Session.SessionID + "articulo"];
-                    totalLabel.Text = "$ " + carrito.precioTotal.ToString();
+                    string specifier = "N";
+                    culture = System.Globalization.CultureInfo.CreateSpecificCulture("es-ES");
+                    if(carrito.precioTotal !=0)
+                    totalLabel.Text = "TOTAL   $ " + carrito.precioTotal.ToString(specifier, culture);
+                    else
+                    {
+                        totalLabel.Text = "Ups parace que todavia no agregaste nada al carrito...";
+                        totalLabel.CssClass = "sinItems";
+                    }
                     dgvCarritoCompras.DataSource = carrito.carro;
                     dgvCarritoCompras.DataBind();
-                }
-                 
+                }                 
 
             }
             catch (Exception ex)
@@ -53,7 +62,7 @@ namespace Catalogo_Web
                     
                     carrito.carro.Remove(articulo);
                     carrito.cantArticulo--;
-                    carrito.precioTotal-=articulo.Precio * articulo.Cant;
+                    carrito.precioTotal-=precioAux * articulo.Cant;
                     Session.Add(Session.SessionID + "articulo", carrito);
                     break;
                 case "Add":
